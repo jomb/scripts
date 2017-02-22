@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# Example: ./testTCPport.sh eth1 22 10.121.10.0/24
+# Example: ./testTCPport.sh eth1 22 10.10.10.0/24
 
 INTERFACE=$1
 PORT=$2
